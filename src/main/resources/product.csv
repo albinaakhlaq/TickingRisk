@@ -1,0 +1,4 @@
+product_id,product_name,productType,price
+1,AAPL,COMMON_STOCK,100
+2,TSLA,COMMON_STOCK,200
+3,AAPL-OCT-2020-110-C,OPTION,10
